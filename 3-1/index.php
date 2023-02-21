@@ -88,8 +88,6 @@
 
 
 
-
-
 function chokuhotai($vertical, $width, $height,)
 {
     $area = $vertical * $width * $height;
