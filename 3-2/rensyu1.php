@@ -10,6 +10,7 @@ function getPrice($fruits, $num)
     return $price;
 }
 
+$i = 0;
 foreach ($fruits as $key => $value) {
     echo $key . "は" . getPrice($value, $num[$i]) . "円です。";
     $i++;
