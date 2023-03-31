@@ -31,5 +31,8 @@ printf("%sの運勢は%sです。", $date, $unsei);
 
 echo '</br>';
 
+
+
+
 //echo "選ばれた数字は";
-//echo mt_rand(0, 10);
+//echo mt_rand(0, 9);
